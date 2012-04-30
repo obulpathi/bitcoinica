@@ -24,4 +24,3 @@ client.get('/api/quotes/BTCUSD/history.json?n=' + history, function(err, req, re
 getOrders();
 getHistory(10);
 getHistory(15);
-getHistory(20);
